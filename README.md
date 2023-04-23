@@ -4,7 +4,7 @@
 
 ```py
  
- 
+  ## codekid0 / about
   
   codekid0@github
   ----------
@@ -16,6 +16,6 @@
   Learning: 'Rust'
   Projects: 'Hydra'
  
+  ## codekid0 / about
  
-  
 ```
