@@ -6,15 +6,15 @@
  
  
   
-    codekid0@github
-    ----------
-    OS: 'Arch Linux'
-    DE: 'KDE Plasma'
-    Home: 'Poland'
-    IDE: 'IntelliJ, VSCode'
-    Languages: 'Java, C++, JS, TS'
-    Learning: 'Rust'
-    Projects: 'Hydra'
+  codekid0@github
+  ----------
+  OS: 'Arch Linux'
+  DE: 'KDE Plasma'
+  Home: 'Poland'
+  IDE: 'IntelliJ, VSCode'
+  Languages: 'Java, C++, JS, TS'
+  Learning: 'Rust'
+  Projects: 'Hydra'
  
  
   
